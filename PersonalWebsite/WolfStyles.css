@@ -1,0 +1,14 @@
+.PageAlign {
+  text-align: center;
+  }
+.background {
+background-image: url("stockimages/trippy\ background.gif");
+  background-size: 100% 100%;
+}
+.textcolor {
+  color: rgb(254, 254, 255);
+}
+
+h1 {
+  font-style: italic;
+}
